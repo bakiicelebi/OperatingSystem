@@ -4,9 +4,9 @@ Bu proje, basit bir kabuk (shell) uygulamasıdır. Proje, grup çalışması ola
 
 1. Abdulbaki Çelebi - _*B211210009*_
 2. Akif Emre Sula - _*B211210030*_
-3. Hümeyra Öztürk - _*B211210009*_
+3. Hümeyra Öztürk - _*B211210014*_
 4. Sena Erden - _*B211210041*_
-5. Mert Can Yeter - _*B211210009*_
+5. Mert Can Yeter - _*B211210092*_
 
 ## Dosya Yapısı
 
