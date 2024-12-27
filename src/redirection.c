@@ -1,3 +1,13 @@
+//				GRUP ÜYELERİ
+//		İsim Soyisim 		Numara
+//-------------------------------------------
+//	    Abdulbaki Çelebi 	B211210009 
+//	    Akif Emre Sula 		B211210030
+//	    Hümeyra Öztürk 		B211210014
+//	    Sena Erden 			B211210041
+//	    Mert Can Yeter 		B211210092
+
+
 #include "shell.h"
 
 void handle_redirection(char *command)
